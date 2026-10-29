@@ -115,6 +115,7 @@ Daftar produk, proyek, acara dan sumber daya lainnya yang dibuat oleh developer 
 - [Gembok Authenticator](https://github.com/rioastamal/gembok) - Browser based 2FA alternative to Google Authenticator.
 - [giscus](https://giscus.app) - A comments system powered by GitHub Discussions that works on any website, static or dynamic.
 - [Gramatika](https://gramatika.app/) - Asisten menulis Bahasa Indonesia baku dan KBBI di peramban (browser) dan aplikasi ponsel.
+- [HandleMyFile](https://handlemyfile.com/) - Platform utilitas dan konversi dokumen (PDF ke Word, OCR, dll.) 100% in-browser secara privat bertenaga WebAssembly.
 - [InstaShare](https://share.nyandev.id/) - An instant file sharing powered by IPFS network.
 - [IRO](https://iro.nyandev.id/) - Color converter, generator and inspection tools.
 - [thedev.id](https://thedev.id/) - A free thedev.id subdomain for developers. Connect to GitHub Pages, Netlify, Vercel or others.
